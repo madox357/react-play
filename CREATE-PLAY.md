@@ -1,7 +1,7 @@
 # Create a Play
 This document helps you with the steps to `Create a play` in `react-play`. You will also find the details of how to submit a play for code review.
 ## 🖥️ Steps to Create a Play
-Welcome developers! We are as excited as you are to know that you are going to create a new play. It is super easy to get started.
+Welcome developers! We are as excited as you are, to know that you are going to create a new play. It is super easy to get started.
 
 > **Note:** The steps below assumes that you have forked and cloned the [react-play](https://github.com/reactplay/react-play) repository. Also, you have installed the dependencies using the `npm install` or `yarn install` command. If you are new to forking, please watch this [YouTube Guide](https://www.youtube.com/watch?v=h8suY-Osn8Q) to get started.
 
